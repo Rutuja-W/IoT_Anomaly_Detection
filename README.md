@@ -112,9 +112,3 @@ We created a **FastAPI** service prototype to enable external access to the trai
 
 ---
 
-## 📬 Contact
-For questions or access to the repository:
-📧 Email: `rayudu_g@sfu.ca`, `rutuja@example.com`, `yanyi@example.com`
-
----
-
