@@ -100,7 +100,6 @@ We created a **FastAPI** service prototype to enable external access to the trai
 
 - CIC-BCCC-NRC-IoMT-2024 Dataset. [CIC Research](http://cicresearch.ca/IOTDataset)
 - Scikit-learn Documentation. https://scikit-learn.org
-- SMOTE: Chawla et al., 2002
 - XGBoost: Chen & Guestrin, 2016
 
 ---
